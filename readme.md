@@ -8,4 +8,4 @@
 
 -- http://suit.ru/wp-json/supportcandy/v1/tickets/addRegisteredUserTicket?auth_user={user}&auth_token={token}&fields_data={"assigned_agents": "{id агента}"}
 
-2. Добавлена возможность показывать агентов зарегестрированному пользователю 
+2. Добавлена возможность показывать агентов зарегистрированному пользователю
